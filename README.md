@@ -1,1 +1,1 @@
-# Endpoint
+# Endpoint file of php script
